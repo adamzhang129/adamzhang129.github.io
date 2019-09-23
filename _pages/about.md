@@ -15,7 +15,7 @@ redirect_from:
 
 
 
-Recent News
+Updates
 ======
 
 - Paper titled "**Data-efficient Top-Pressing Sliding for Planar Manipulation**" was submitted to 2020 International Conference on Robotics and Automation (ICRA).
