@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Precision Mechanical and Instruments, University of Science and Technology of China (USTC), Hefei, China, 2014
+* M.S. in Power Mechanical Engineering, National Tsing-Hua University, Hsinchu, Taiwan, 2016
+* Ph.D in Mechanical and Aerospace Engineering, The Hong Kong University of Science and Technology, Hong Kong, 2020 (expected)
 
 Work experience
 ======
