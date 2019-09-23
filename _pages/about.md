@@ -16,10 +16,9 @@ redirect_from:
 ===
 Recent News
 
-- Paper titled "Toward Learning to Detect and Predict Contact Events on Vision-based Tactile Sensor" was accepted to Conference on Robot Learning (CoRL) - 2019.
-- Paper titled "Effective Estimation of Contact Force and Torque for Vision-Based Tactile Sensors With Helmholtz–Hodge Decomposition " was accepted to 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
-- Paper titled "Effective Estimation of Contact Force and Torque for Vision-Based Tactile Sensors With Helmholtz–Hodge Decomposition " was accepted to IEEE Robotics and Automation Letters (Journal).
-- Paper titled "A Low-cost Inchworm-inspired Soft Robot Driven by Supercoiled Polymer Artificial Muscle" was accepted to 2019 2nd IEEE International Conference on Soft Robotics (RoboSoft).
-- Paper titled "An Origami-Inspired Monolithic Soft Gripper Based on Geometric Design Method" was accepted to 2019 2nd IEEE International Conference on Soft Robotics (RoboSoft).
-- Paper titled "An Origami-Inspired Monolithic Soft Gripper Based on Geometric Design Method" was accepted to 2019 2nd IEEE International Conference on Soft Robotics (RoboSoft).
-- Paper titled "A Novel Variable Stiffness Actuator Based on Pneumatic Actuation and Supercoiled Polymer Artificial Muscles" was accepted to 2019 International Conference on Robotics and Automation (ICRA).
+- Paper titled "**Toward Learning to Detect and Predict Contact Events on Vision-based Tactile Sensor**" was accepted to Conference on Robot Learning (CoRL) - 2019.
+- Paper titled "**Effective Estimation of Contact Force and Torque for Vision-Based Tactile Sensors With Helmholtz–Hodge Decomposition**" was accepted to 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
+- Paper titled "**Effective Estimation of Contact Force and Torque for Vision-Based Tactile Sensors With Helmholtz–Hodge Decomposition**" was accepted to IEEE Robotics and Automation Letters (Journal).
+- Paper titled "**A Low-cost Inchworm-inspired Soft Robot Driven by Supercoiled Polymer Artificial Muscle**" was accepted to 2019 2nd IEEE International Conference on Soft Robotics (RoboSoft).
+- Paper titled "**An Origami-Inspired Monolithic Soft Gripper Based on Geometric Design Method**" was accepted to 2019 2nd IEEE International Conference on Soft Robotics (RoboSoft).
+- Paper titled "**A Novel Variable Stiffness Actuator Based on Pneumatic Actuation and Supercoiled Polymer Artificial Muscles**" was accepted to 2019 International Conference on Robotics and Automation (ICRA).
