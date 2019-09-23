@@ -10,4 +10,4 @@ citation: 'Y., Zhang, Z. Kan, Y. Yang, A. Tse, M. Wang*. &quot;Effective Estimat
 ---
 
 
-Recommended citation: Y., Zhang, Z. Kan, Y. Yang, A. Tse, M. Wang*. &quot;Effective Estimation of Contact Force and Torque for Vision-Based Tactile Sensors With Helmholtz–Hodge Decomposition.&quot; <i>IEEE Robotics and Automation Letters and IROS 2019</i>.
+Recommended citation: __Y., Zhang__, Z. Kan, Y. Yang, A. Tse, M. Wang*. &quot;Effective Estimation of Contact Force and Torque for Vision-Based Tactile Sensors With Helmholtz–Hodge Decomposition.&quot; <i>IEEE Robotics and Automation Letters and IROS 2019</i>.
