@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 <br>
 <b>[Toward Learning to Detect and Predict Contact Events on Vision-based Tactile Sensor](http://adamzhang129.github.io/publications/ContactEventLearning)</b> 
 <br> 
@@ -21,6 +22,19 @@ author_profile: true
 <br> 
 <b>[A Low-cost Inchworm-inspired Soft Robot Driven by Supercoiled Polymer Artificial Muscle](http://adamzhang129.github.io/publications/Inchworm)</b> 
 <br> 
-
-Yang Y, Tse YA, <b>Zhang Y</b>, Kan Z, Wang MY\*.
+Y. Yang, A. Y. Tse, <b>Y. Zhang</b>, Z. Kan, M. Y. Wang\*.
 <i>2nd IEEE International Conference on Soft Robotics (RoboSoft) 2019</i>.
+
+<br> 
+<b>[An Origami-Inspired Monolithic Soft Gripper Based on Geometric Design Method](http://adamzhang129.github.io/publications/OrigamiGripper)</b> 
+<br> 
+Z. Kan, <b>Y. Zhang</b>, A. Y. Tse, M. Y. Wang\*.
+<i>2nd IEEE International Conference on Soft Robotics (RoboSoft) 2019</i>.
+
+<br> 
+<b>[A Novel Variable Stiffness Actuator Based on Pneumatic Actuation and Supercoiled Polymer Artificial Muscles](http://adamzhang129.github.io/publications/SupercoiledFinger)</b> 
+<br> 
+Yang, Yang, Zicheng Kan, Yazhan Zhang, Yu Alexander Tse, and Michael Yu Wang.
+<i>2019 International Conference on Robotics and Automation (ICRA)</i>.
+
+
