@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ContactEventLearning
 date: 2019-09-07
 venue: 'Conference on Robot Learning (CoRL 2019)'
-citation: '<b>Y. Zhang</b>, W. Yuan, Z. Kan, M. Wang. &quot;Toward Learning to Detect and Predict Contact Events on Vision-based Tactile Sensor.&quot; <i>Conference on Robot Learning</i> <b>CoRL 2019</b>.'
+citation: '<b>Y. Zhang</b>, W. Yuan, Z. Kan, M. Wang. &quot;Toward Learning to Detect and Predict Contact Events on Vision-based Tactile Sensor.&quot; <i>Conference on Robot Learning</i>, <b>CoRL 2019</b>.'
 ---
 
 ## Abstract
