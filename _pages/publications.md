@@ -16,3 +16,10 @@ author_profile: true
 <br> 
 <b>Y. Zhang</b>, Z. Kan, Y. Yang, A. Tse, M. Wang\*.
 <i>IEEE Robotics and Automation Letters and IROS 2019</i>.
+
+
+<br> 
+<b>[A Low-cost Inchworm-inspired Soft Robot Driven by Supercoiled Polymer Artificial Muscle](http://adamzhang129.github.io/publications/Inchworm)</b> 
+<br> 
+<b>Yang Y, Tse YA, <b>Zhang Y</b>, Kan Z, Wang MY\*.
+<i>2nd IEEE International Conference on Soft Robotics (RoboSoft) 2019</i>.
