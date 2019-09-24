@@ -27,3 +27,5 @@ variance. The proposed algorithm is further integrated into a contact
 force visualization module as well as a closed-loop adaptive grasp
 force control framework and is shown to be useful in both visualization
 of contact stability and minimum force grasping task.
+
+[Full Paper](http://adamzhang129.github.io/files/EstContactForce.pdf)
