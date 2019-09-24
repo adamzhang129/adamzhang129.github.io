@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my FULL Curriculum Vitae](http://adamzhang129.github.io/files/CV_en.pdf)
+
 Education
 ======
 * B.E. in Precision Mechanical and Instruments, University of Science and Technology of China (USTC), Hefei, China, 2014
