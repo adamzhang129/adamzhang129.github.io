@@ -9,4 +9,10 @@ author_profile: true
 <b>[Toward Learning to Detect and Predict Contact Events on Vision-based Tactile Sensor](http://adamzhang129.github.io/publications/ContactEventLearning)</b> 
 <br> 
 <b>Y. Zhang</b>, W. Yuan, Z. Kan, M. Wang.
-<i>The 3rd Conference on Robot Learning</i>. <b>CoRL 2019</b>.
+<i>The 3rd Conference on Robot Learning</i>, <b>CoRL 2019</b>.
+
+<br> 
+<b>[Effective Estimation of Contact Force and Torque for Vision-Based Tactile Sensors With Helmholtz–Hodge Decomposition](http://adamzhang129.github.io/publications/EstContactForce)</b> 
+<br> 
+<b>Y. Zhang</b>, Z. Kan, Y. Yang, A. Tse, M. Wang\*.
+<i>IEEE Robotics and Automation Letters and IROS 2019</i>.
