@@ -21,5 +21,6 @@ author_profile: true
 <br> 
 <b>[A Low-cost Inchworm-inspired Soft Robot Driven by Supercoiled Polymer Artificial Muscle](http://adamzhang129.github.io/publications/Inchworm)</b> 
 <br> 
+
 <b>Yang Y, Tse YA, <b>Zhang Y</b>, Kan Z, Wang MY\*.
 <i>2nd IEEE International Conference on Soft Robotics (RoboSoft) 2019</i>.
