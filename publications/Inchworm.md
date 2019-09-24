@@ -1,4 +1,3 @@
-
 ---
 title: "A Low-cost Inchworm-inspired Soft Robot Driven by Supercoiled Polymer Artificial Muscle"
 collection: publications
