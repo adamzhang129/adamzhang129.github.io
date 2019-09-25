@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my FULL Curriculum Vitae](http://adamzhang129.github.io/files/CV_en.pdf)
+Download my FULL Curriculum Vitae:
+[English](http://adamzhang129.github.io/files/CV/CV.pdf)
+[中文](http://adamzhang129.github.io/files/CV/简历.pdf)
 
 Education
 ======
