@@ -17,6 +17,7 @@ redirect_from:
 
 Updates
 ======
+- Paper titled "**Hybrid Jamming for Bio-inspired Soft Robotic Fingers**" was accepted to **Soft Robotics** Journal.
 
 - Paper titled "**Data-efficient Top-Pressing Sliding for Planar Manipulation**" was submitted to 2020 International Conference on Robotics and Automation (ICRA).
 - Paper titled "**Outwards Shoving: A Bio-inspired Modularized Spiral Pneumatic Arm Design with A Novel Grasping Mode**" was submitted to 2020 International Conference on Robotics and Automation (ICRA).
