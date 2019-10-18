@@ -47,6 +47,6 @@ Yang, Yang, Zicheng Kan, <b>Yazhan Zhang</b>, Yu Alexander Tse, and Michael Yu W
 ---
 \* denotes authors with equal contribution.
 
-## Patent:
+## Patents:
 
 US. Patent "A Tactile Sensor Skin inspired by Compound Eye" is under issuing and to be released.
