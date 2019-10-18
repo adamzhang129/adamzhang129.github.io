@@ -12,10 +12,10 @@ author_profile: true
 <b>Yazhan Zhang</b>, Zicheng Kan, Yang Yang, Alexander Yu Tse, Michael Yu Wang.
 <i>IEEE Robotics and Automation Letters and IROS 2019</i>.
  
-<b>[Bio-inspired Soft Robotic Fingers based on Hybrid Jamming]()</b> 
+<b>[Hybrid Jamming for Bio-inspired Soft Robotic Fingers]()</b> 
 <br> 
 Yang Yang*, <b>Yazhan Zhang*</b>, Zicheng Kan, Michael Yu Wang.
-<i>Soft Robotics</i>, Under revision.
+<i>Soft Robotics</i>, 2019.
 
 ## Conferences:
 
