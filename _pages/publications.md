@@ -22,7 +22,7 @@ Yang Yang*, <b>Yazhan Zhang*</b>, Zicheng Kan, Michael Yu Wang.
 <b>[Toward Learning to Detect and Predict Contact Events on Vision-based Tactile Sensor](http://adamzhang129.github.io/publications/ContactEventLearning)</b> 
 <br> 
 <b>Yazhan Zhang</b>, Weihao Yuan, Zicheng Kan, Michael Yu Wang.
-<i>The 3rd Conference on Robot Learning</i>, <b>CoRL 2019 (Oral Presentation)</b>.
+<i>The 3rd Conference on Robot Learning</i>, <b>CoRL 2019 (Oral Presentation 5%)</b>.
 
 <b>[Effective Estimation of Contact Force and Torque for Vision-Based Tactile Sensors With Helmholtz–Hodge Decomposition](http://adamzhang129.github.io/publications/EstContactForce)</b> 
 <br> 
